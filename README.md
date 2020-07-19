@@ -8,7 +8,7 @@
 
 👋 Howdy lads, I'm Aajinkya, a 17 year old Tech enthusiast. I love coding in Python, making websites with React and Firebase, creating sexy apps with Flutter :heart_eyes:, and making good UI to leave people awe-struck! :heart:
 
-<br><br>
+<br>
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
