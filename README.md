@@ -13,6 +13,8 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## Latest Release
+- Catch my latest project [rollab](https://github.com/aajinkya1203/rollab) - an online chatting page with multiplayer / solo game integration!
 
 ## About
 - ⚡ I’m currently working on Flutter, various Web Dev projects, and a diesease detection ML Project!
