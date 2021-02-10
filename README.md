@@ -1,6 +1,5 @@
 ### Hello there <img src="https://github.com/aajinkya1203/aajinkya1203/blob/master/resources/wave.gif" width="30px">
 
-<img alt="Aajinkya's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aajinkya1203&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" align="right">
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/aajinkya1203?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/aajinkya1203?style=social)
@@ -10,9 +9,8 @@
 
 <br>
 
-<div style="margin: 0 auto; width: max-content;display: block;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aajinkya1203&&theme=highcontrast&&hide_border=false&&show_icons=true" />
- </div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aajinkya1203&&theme=highcontrast&&hide_border=false&&show_icons=true" align="left" width="50%"/>
+<img alt="Aajinkya's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aajinkya1203&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" align="right" width="50%">
 
 
 ## Latest Release
