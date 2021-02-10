@@ -1,7 +1,6 @@
 ### Hello there <img src="https://github.com/aajinkya1203/aajinkya1203/blob/master/resources/wave.gif" width="30px">
 
 <img alt="Aajinkya's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aajinkya1203&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" align="right">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aajinkya1203&&theme=radical&&hide_border=false&&show_icons=true"/>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/aajinkya1203?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/aajinkya1203?style=social)
@@ -10,7 +9,7 @@
 👋 Howdy lads, I'm Aajinkya, a 17 year old Tech enthusiast. I love coding in Python, making websites with React and Firebase, creating sexy apps with Flutter :heart_eyes:, and making good UI to leave people awe-struck! :heart:
 
 <br>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aajinkya1203&&theme=highcontrast&&hide_border=false&&show_icons=true"/>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
