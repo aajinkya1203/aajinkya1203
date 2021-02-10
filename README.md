@@ -1,7 +1,7 @@
 ### Hello there <img src="https://github.com/aajinkya1203/aajinkya1203/blob/master/resources/wave.gif" width="30px">
 
 <img alt="Aajinkya's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aajinkya1203&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" align="right">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aajinkya1203)](https://github.com/DenverCoder1/github-readme-streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aajinkya1203&&theme=radical&&hide_border=false&&show_icons=true"/>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/aajinkya1203?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/aajinkya1203?style=social)
