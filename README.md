@@ -14,7 +14,9 @@
 
 
 ## Additional
-I love binging Netflix and listening to Spotify. Run me your playlist, might find some gems! :eyes: Catch me on [Spotify](https://open.spotify.com/user/7m7i9ksejf0fjmqaampggu451?si=3zIGGcUoTIGkiHQhBzlkSQ) too! :musical_note:
+I love binging Netflix, Animes and listening to Spotify. Run me your playlist, might find some gems! :eyes: Catch me on [Spotify](https://open.spotify.com/user/7m7i9ksejf0fjmqaampggu451?si=3zIGGcUoTIGkiHQhBzlkSQ) too! :musical_note:
 
-|<img src="https://github-readme-streak-stats.herokuapp.com/?user=aajinkya1203&&theme=highcontrast&&hide_border=false&&show_icons=true"/>|<img alt="Aajinkya's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aajinkya1203&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">|
+|<img src="https://github-readme-streak-stats.herokuapp.com/?user=aajinkya1203&&theme=buefy-dark&&hide_border=false&&show_icons=true"/>|<img alt="Aajinkya's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aajinkya1203&&theme=buefy-dark&&show_icons=true&&hide_border=false&bg_color=1a1b27&icon_color=ff3860&title_color=7957d5&text_color=808080">|
 |---|---|
+
+<!-- -->
