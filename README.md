@@ -9,9 +9,11 @@
 👋 Howdy lads, I'm Aajinkya, a 17 year old Tech enthusiast. I love coding in Python, making websites with React and Firebase, creating sexy apps with Flutter :heart_eyes:, and making good UI to leave people awe-struck! :heart:
 
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aajinkya1203&&theme=highcontrast&&hide_border=false&&show_icons=true"/>
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<div style="margin: 0 auto; width: max-content;display: block;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aajinkya1203&&theme=highcontrast&&hide_border=false&&show_icons=true" />
+ </div>
+
 
 ## Latest Release
 - Catch my latest project [rollab](http://rollab.herokuapp.com/) - an online chatting page with multiplayer / solo game integration!
