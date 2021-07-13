@@ -5,7 +5,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/aajinkya1203?style=social)
 ![Spotify Profile](http://img.shields.io/badge/Spotify-aajinkya1203-green?style=flat&logo=spotify&??link=http://left&link=https://open.spotify.com/user/7m7i9ksejf0fjmqaampggu451?si=3zIGGcUoTIGkiHQhBzlkSQ&??color=#1DB954)
 
-👋 Howdy lads, I'm Aajinkya, a 17 year old Tech enthusiast. I love coding in Python, making websites with React and Firebase, creating sexy apps with Flutter :heart_eyes:, and making good UI to leave people awe-struck! :heart:
+👋 Howdy lads, I'm Aajinkya, a Tech enthusiast. I love coding in Python, making websites with React and Firebase, creating sexy apps with Flutter :heart_eyes:, and making good UI to leave people awe-struck! :heart:
 
 <br>
 
