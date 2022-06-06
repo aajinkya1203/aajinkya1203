@@ -1,4 +1,4 @@
-### Hello there <img src="https://github.com/aajinkya1203/aajinkya1203/blob/master/resources/wave.gif" width="30px">
+### Hello there <img src="https://github.com/aajinkya1203/aajinkya1203/blob/master/resources/wave.gif" width="30px" height="30px">
 
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/aajinkya1203?style=social)
