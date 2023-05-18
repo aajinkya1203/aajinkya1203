@@ -10,7 +10,7 @@
 <br>
 
 ## Latest Release
-- Catch my latest project [rollab](http://rollab.herokuapp.com/) - an online chatting page with multiplayer / solo game integration!
+- Catch my latest project [Deep Learning Based AutoEncoders]([http://rollab.herokuapp.com/](https://github.com/aajinkya1203/Deep-Learning-based-Suppression-of-Non-Stationary-Sounds)) - an audio segmentation based application for supression of non-stationary signals in a given voice sample.
 
 
 ## Additional
